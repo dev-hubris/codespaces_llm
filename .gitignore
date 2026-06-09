@@ -214,3 +214,7 @@ output/
 */.env
 
 react-fastapi-client/node_modules
+
+
+cookies.txt
+*.cookies.txt
